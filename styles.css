@@ -7,11 +7,40 @@ body{
 }
 #container{
     width: 70%;
-    padding: 1em;
     text-align: left;
-    border: 1px solid #DDD;
+    border:  1px solid #DDD;
     margin: 0 auto;
 }
 #container h1{
     font-size: 20px;
+}
+/*Cabecera*/
+div#cabecera {
+    height: 2em;
+    padding: 1rem;
+    background-color: #ff4568;
+    display: flex;
+    align-items: center;
+    color: white;   
+}
+div#cabecera h2{
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+div#cabecera ul li{
+    font-weight: normal;
+    margin-left: 1rem;
+    font-size: 1.2rem;
+    list-style: none;
+}
+#container h1 {
+    font-size: 1.6rem;
+}
+#container .post{
+    padding: 1rem;
+}
+#cabecera nav{
+    display: flex;
+    align-items: center;
+    height: 100%;
 }
