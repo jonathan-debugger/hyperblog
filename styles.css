@@ -43,3 +43,14 @@ div#cabecera ul li{
     align-items: center;
     height: 100%;
 }
+/*Footer*/
+
+footer{
+    width: 70%;
+    margin: 0 auto;
+    height: 4rem;
+    background: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
