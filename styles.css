@@ -57,7 +57,8 @@ footer{
     width: 70%;
     margin: 0 auto;
     height: 4rem;
-    background: antiquewhite;
+    /* background: antiquewhite; */
+    background-color: #ff4568;
     display: flex;
     align-items: center;
     justify-content: center;
