@@ -22,4 +22,6 @@ Feature 2
 
 Nuevo cambio
 
-Nuevo commit rama main
+Nuevo commit rama 
+
+Commit 1 a nueva rama
